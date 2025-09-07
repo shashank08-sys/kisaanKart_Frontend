@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "crop": "Wheat",
+    "description": "High-quality wheat for bread and flour production.",
+    "price": 25,
+    "imagesURL": "https://www.peptechbio.com/wp-content/uploads/2023/03/Wheat_photo-cred-Adobe-stock_E-2.jpg"
+  },
+  {
+    "id": 2,
+    "crop": "Rice",
+    "description": "Premium long-grain rice, perfect for daily meals.",
+    "price": 40,
+    "imagesURL": "https://c.ndtvimg.com/2023-08/brlp7gk_uncooked-rice-or-rice-grains_625x300_18_August_23.jpg?im=FaceCrop,algorithm=dnn,width=773,height=435"
+  },
+  {
+    "id": 3,
+    "crop": "Corn",
+    "description": "Fresh sweet corn, directly from the farm.",
+    "price": 18,
+    "imagesURL": "https://cdn.britannica.com/36/167236-050-BF90337E/Ears-corn.jpg?w=300"
+  },
+  {
+    "id": 4,
+    "crop": "Sugarcane",
+    "description": "Organic sugarcane for juice and jaggery.",
+    "price": 15,
+    "imagesURL": "https://www.saveur.com/uploads/2022/03/05/sugarcane-linda-xiao.jpg?dpr=1&format=auto&optimize=high&width=1440"
+  },
+  {
+    "id": 5,
+    "crop": "Barley",
+    "description": "Healthy barley rich in fiber and nutrients.",
+    "price": 22,
+    "imagesURL": "https://cdn.britannica.com/31/75931-050-FED41F1F/Barley.jpg?w=300"
+  }
+]

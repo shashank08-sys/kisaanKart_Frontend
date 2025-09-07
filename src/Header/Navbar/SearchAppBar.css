@@ -1,0 +1,26 @@
+.KisaanKartIcon {
+  height: 3.5rem; /* Leaves 6px padding top and bottom */
+  width: auto;
+  margin-right: 0,2rem;
+}
+
+.navbar-profile{
+  font-weight: bold;
+  color: white; 
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.navbar-wishlist{
+  font-weight: bold;
+  color: white; 
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.navbar-bag{
+  font-weight: bold;
+  color: white; 
+  cursor: pointer;
+  transition: color 0.3s;
+}

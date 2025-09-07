@@ -1,0 +1,57 @@
+.crops-images{
+    width: 90%;
+    height: auto;
+    border-radius: 5px;
+}
+
+
+
+.crop-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    
+}
+
+.crop-card {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    width: 300px;
+    text-align: center;
+}
+
+.crop-card h3 {
+    margin: 10px 0;
+}
+
+.crop-card p {
+    margin: 5px 0;
+}
+.add-tobag{
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.add-tobag:hover{
+    background-color: #218838;
+}
+
+.wishlist-button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.wishlist-button:hover{
+    color: red;
+}
+
+
